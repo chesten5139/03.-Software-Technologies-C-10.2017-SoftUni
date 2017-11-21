@@ -5,3 +5,5 @@ function multiplyByTwo(input) {
 
 /*
 multiplyByTwo([5]);*/
+
+
