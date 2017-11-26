@@ -1,0 +1,1 @@
+mongod --dbpath "D:\Dropbox\Educational\Programming\03.-Software-Technologies-C-10.2017-SoftUni\08. JS-Blog-Lab\SoftUniBlog\BlogDB" --storageEngine "mmapv1"
